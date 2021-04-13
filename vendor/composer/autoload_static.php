@@ -57,6 +57,10 @@ class ComposerStaticInit0221139f94ce2cd4bf70bca7284e70b7
             'Zend\\Authentication\\' => 20,
             'ZF\\DevelopmentMode\\' => 19,
         ),
+        'U' => 
+        array (
+            'User\\' => 5,
+        ),
         'T' => 
         array (
             'TrueBV\\' => 7,
@@ -250,6 +254,10 @@ class ComposerStaticInit0221139f94ce2cd4bf70bca7284e70b7
         'ZF\\DevelopmentMode\\' => 
         array (
             0 => __DIR__ . '/..' . '/zfcampus/zf-development-mode/src',
+        ),
+        'User\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/module/User/src',
         ),
         'TrueBV\\' => 
         array (
